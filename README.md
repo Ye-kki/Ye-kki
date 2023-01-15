@@ -8,8 +8,7 @@
 ## TOOLS
 #### Development
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white) ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white)
-![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)<br/><br/>
-
+![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 #### Design
 ![photoshop Badge](https://img.shields.io/badge/photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white) ![Illustrator Badge](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=white) ![Rhinoceros Badge](https://img.shields.io/badge/Rhinoceros-801010?style=flat&logo=Rhinoceros&logoColor=white) ![Fushion360 Badge](https://img.shields.io/badge/Fushion360-e06b19?style=flat&logo=Fushion360&logoColor=white) ![Keyshot Badge](https://img.shields.io/badge/Keyshot-4a80d8?style=flat&logo=Keyshot&logoColor=white)<br/><br/>
 
