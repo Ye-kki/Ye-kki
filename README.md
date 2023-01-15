@@ -9,7 +9,6 @@
 
 
 ## TOOLS
--------------
 ### Development
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white) ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white)
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
