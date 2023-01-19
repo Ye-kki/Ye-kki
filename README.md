@@ -14,4 +14,5 @@
 
 ## 🔨WORK
 [![instagram Badge](https://img.shields.io/badge/Instagram-D14836?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/yekki_work)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)]([https://www.instagram.com/yekki_work](https://www.youtube.com/channel/UCuETiDAzaXxoHJKc9cwaCAw))<br/><br/>
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCuETiDAzaXxoHJKc9cwaCAw)
+[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white)](https://yekki.tistory.com/)<br/><br/>
